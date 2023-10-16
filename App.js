@@ -4,7 +4,7 @@ import 'react-native-gesture-handler';
 const App = () => {
   return (
     <View>
-      <Text>App</Text>
+      <Text>Apphello</Text>
     </View>
   )
 }
